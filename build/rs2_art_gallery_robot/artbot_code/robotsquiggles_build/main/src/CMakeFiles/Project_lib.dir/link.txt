@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/ubuntu/catkin_ws/devel/lib/libProject_lib.a  CMakeFiles/Project_lib.dir/io.cpp.o CMakeFiles/Project_lib.dir/main.cpp.o CMakeFiles/Project_lib.dir/quinticpolynomial.cpp.o CMakeFiles/Project_lib.dir/spline.cpp.o CMakeFiles/Project_lib.dir/tankmodel.cpp.o
+/usr/bin/ranlib /home/ubuntu/catkin_ws/devel/lib/libProject_lib.a

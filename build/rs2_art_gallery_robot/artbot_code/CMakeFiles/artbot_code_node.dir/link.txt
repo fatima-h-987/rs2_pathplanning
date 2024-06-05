@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17  -Wno-deprecated -Wdeprecated-declarations   CMakeFiles/artbot_code_node.dir/src/main.cpp.o CMakeFiles/artbot_code_node.dir/src/sample.cpp.o  -o /home/ubuntu/catkin_ws/devel/lib/artbot_code/artbot_code_node 

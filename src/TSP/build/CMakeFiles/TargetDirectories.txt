@@ -1,0 +1,3 @@
+/home/ubuntu/catkin_ws/src/TSP/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/catkin_ws/src/TSP/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/catkin_ws/src/TSP/build/CMakeFiles/TSP.dir

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: plotjuggler
+Description: Description of plotjuggler
+Version: 3.7.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lplotjuggler_base
+Requires: roslib roscpp

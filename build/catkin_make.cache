@@ -1,0 +1,2 @@
+rs2_art_gallery_robot/Localisation/rs2_imu_localisation:rs2_art_gallery_robot/Localisation/rs2_odom_noise:rs2_art_gallery_robot/rs2_gazebo_world:rs2_art_gallery_robot/subsystem_ppintg:subsystem_pp:subsystem_ppcredit:subsystem_ppcreditgr:subsystem_ppdist
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_ws/install -G Unix Makefiles
